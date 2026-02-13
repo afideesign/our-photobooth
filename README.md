@@ -1,6 +1,6 @@
-# Underwater Photobooth Web App 🐠
+# My Small Valentine Gift to My Bae ❤️
 
-An underwater-themed photobooth web application built with vanilla HTML, CSS, and JavaScript. Add cute sea creatures and bubbles to your photos and download them as a photo strip🐡
+A Valentine-themed photobooth web application built with vanilla HTML, CSS, and JavaScript. Add cute chiikawas and friends to your photos and download them as a photo strip❤️
 
 ## Features
 - Live camera preview and photo capture
@@ -8,9 +8,6 @@ An underwater-themed photobooth web application built with vanilla HTML, CSS, an
 - Add + drag and drop stickers 
 - Download your decorated photo strip
 - Fully responsive design
-
-## Demo
-[http://photobooth.nashallery.com](http://photobooth.nashallery.com)
 
 ## Getting Started
 **Important:** This app uses your camera. You cannot open the HTML file directly in a browser due to camera permissions. You need to serve it with a local server.
